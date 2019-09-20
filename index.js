@@ -29,5 +29,7 @@ function removeLastKitten(name){
   
 }
 
-function 
+function removeLastKitten(name){
+  return 
+}
 // Add your functions and code here
