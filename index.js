@@ -12,7 +12,7 @@ function destructivelyPrependKitten(name){
     return kittens.unshift(name)
 }
 
-function destructivelyRemoveFirstKitten("Milo"){
-  return kittens.pop("Milo")
+function destructivelyRemoveFirstKitten(name){
+  return kittens.pop(name)
 }
 // Add your functions and code here
