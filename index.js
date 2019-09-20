@@ -15,4 +15,6 @@ function destructivelyPrependKitten(name){
 function destructivelyRemoveFirstKitten(name){
   return kittens.shift(name)
 }
+
+function 
 // Add your functions and code here
