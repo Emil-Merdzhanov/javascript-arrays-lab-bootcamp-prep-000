@@ -8,4 +8,6 @@ function destructivelyRemoveLastKitten(name){
   return kittens.pop(name)
 }
 
+
+
 // Add your functions and code here
