@@ -5,8 +5,11 @@ function destructivelyAppendKitten(name){
 }
 
 function destructivelyPrependKitten(name){
-  return kittens.unshift(hame)
+  return kittens.unshift(name)
 }
 
-function destructivelyPrependKitten(name)
+function destructivelyRemoveLastKitten(name){
+  return kittens.pop(name)
+}
+
 // Add your functions and code here
