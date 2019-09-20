@@ -8,5 +8,5 @@ function destructivelyPrependKitten(name){
   return kittens.unshift(hame)
 }
 
-function 
+function destructivelyPrependKitten(name)
 // Add your functions and code here
