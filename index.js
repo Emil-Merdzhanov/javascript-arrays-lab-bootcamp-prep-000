@@ -7,4 +7,6 @@ function destructivelyAppendKitten(name){
 function destructivelyPrependKitten(name){
   return kittens.unshift(hame)
 }
+
+function 
 // Add your functions and code here
